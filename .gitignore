@@ -1,0 +1,6 @@
+*.mat
+imagenet-vgg-f.mat
+imagenet-vgg-verydeep-16.mat
+*.jpg
+*.xml
+*.asv
